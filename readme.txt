@@ -4,7 +4,7 @@ Contributors: codeinwp
 
 Tags: black, blue, orange, gray, white, light, dark, responsive-layout, one-column, two-columns, right-sidebar, custom-header, custom-background, custom-colors, custom-menu, featured-images, front-page-post-form, full-width-template, rtl-language-support, sticky-post, threaded-comments, translation-ready, accessibility-ready
 
-Requires at least:	3.3.0
+Requires at least:	3.3.
 
 Tested up to:		4.4
 
